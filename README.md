@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Seulgi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=I'm%20Seulgi&fontSize=60)
 
 <!--
 **simseulnyang/simseulnyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br>
 <div align="center">
 안녕하세요! 저는 이스트소프트 부트캠프를 통해 Python과 Django에 대한 기초를 다졌습니다.<br>
 코드 구현과 제공되는 기능에만 집중하는 것이 아니라 핵심 아이디어를 깊이 이해하고, <br>

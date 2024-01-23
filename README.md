@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 함께하게 될 팀에 도움이 되는 개발자가 되겠습니다.<br>
 감사합니다!<br>
 </div>
+<br>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">

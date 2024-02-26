@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-안녕하세요! 저는 이스트소프트 부트캠프를 통해 Python과 Django에 대한 기초를 다졌습니다.<br>
+안녕하세요!<br>
 코드 구현과 제공되는 기능에만 집중하는 것이 아니라 핵심 아이디어를 깊이 이해하고, <br>
 지속적으로 좋은 설계 방식과 자료를 찾아보며 더 나은 개발자로 성장하기 위해 노력하고 있습니다.<br>
 <br>
@@ -25,13 +25,44 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 align="center">📚 Tech Stack 📚</h3>
+<h3 align="center">📚 Programming Language 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
+</p>
+
+<br>
+
+<h3 align="center">📚 Markup Language 📚</h3>
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp<br>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
+<img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=black"/></a>&nbsp
+</p>
+
+<br>
+
+<h3 align="center">📚 Framework 📚</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white"/></a>&nbsp
+</p>
+
+<br>
+
+<h3 align="center">📚 Database 📚</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp
+</p>
+
+<br>
+
+<h3 align="center">📚 Tools 📚</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp
 </p>
 
 <br>

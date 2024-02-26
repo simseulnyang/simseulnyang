@@ -25,17 +25,11 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 align="center">📚 Programming Language 📚</h3>
+<h3 align="center">📚 Programming Language & Markup Language 📚</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp
-</p>
-
-<br>
-
-<h3 align="center">📚 Markup Language 📚</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown&logoColor=black"/></a>&nbsp
 </p>

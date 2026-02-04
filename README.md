@@ -35,10 +35,3 @@ Django / DRF 백엔드 시스템을 직접 설계·구현하며
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![simseulnyang's github stats](https://github-readme-stats.vercel.app/api?username=simseulnyang&show_icons=true)
-
-</div>
